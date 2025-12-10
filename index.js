@@ -56,7 +56,7 @@ app.get('/', (req, res) => {
           color: #556477;
         }
 
-        ul {
+        ol, ul {
           margin-top: 20px;
           font-size: 17px;
           line-height: 1.6;
@@ -80,12 +80,12 @@ app.get('/', (req, res) => {
           <h1>Kelompok 9</h1>
           <h2>Mata Kuliah Komputasi Awan dan Terdistribusi</h2>
 
-          <ul>
+          <ol>
             <li>Michelina Patricia Simangunsong (103012300223)</li>
             <li>Jeffry Kurniawan Visnu (103012300186)</li>
             <li>Azzahra Indah (103012300238)</li>
             <li>Alicia Mazza (10301230089)</li>
-          </ul>
+          </ol>
         </div>
       </div>
     </body>
