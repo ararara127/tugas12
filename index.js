@@ -84,7 +84,7 @@ app.get('/', (req, res) => {
             <li>Michelina Patricia Simangunsong (103012300223)</li>
             <li>Jeffry Kurniawan Visnu (103012300186)</li>
             <li>Azzahra Indah (103012300238)</li>
-            <li>Alicia Mazza (10301230089)</li>
+            <li>Alicia Mazza (10301233089)</li>
           </ol>
         </div>
       </div>
